@@ -26,3 +26,30 @@ It uses **pandas** for data handling, **matplotlib** for charts, and **Streamlit
 Install required packages:
 ```bash
 pip install pandas matplotlib seaborn streamlit
+```
+
+---
+
+Run the Streamlit app:
+```bash
+streamlit run app.py
+```
+
+---
+
+📝 Reflection
+
+It was a bit challenging to handle missing values, but dropping them worked.
+
+I learned how to use pandas.to_datetime() to extract years.
+
+Streamlit was fun because I could add a slider and make the app interactive.
+
+
+---
+
+
+
+
+
+
